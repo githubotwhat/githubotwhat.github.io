@@ -1,9 +1,8 @@
-
 [{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
         "package_name": "com.mpa.registro",
-        "sha256_cert_fingerprints": ["3D:5F:11:53:C1:39:0F:7F:CF:CB:F1:6D:01:F3:DA:27:9E:19:6F:24:DA:09:E9:76:60:5C:05:E1:30:94:87:2D"]
+        "sha256_cert_fingerprints": ["D0:2F:6B:20:8D:CF:5E:35:F7:AD:E6:D8:D9:00:80:30:F3:60:D6:55:50:B3:0F:F3:AC:7E:51:3F:3E:F5:C4:A5"]
       }
     }]
