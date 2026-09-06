@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.mpa.registro",
-        "sha256_cert_fingerprints": ["AD:01:2D:F3:5C:1F:27:3B:25:C1:69:60:04:8E:68:A1:75:35:E3:8B:60:49:58:53:F5:D3:C5:8A:78:27:9B:87"]
+        "package_name": "com.mpa.registrov4",
+        "sha256_cert_fingerprints": ["B1:CC:6B:C2:7B:4E:FA:7C:06:63:F2:10:2C:EB:FA:BF:E1:13:8D:18:76:88:6F:10:A8:C1:DF:03:F0:34:40:A9"]
       }
     }]
