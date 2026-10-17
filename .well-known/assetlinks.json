@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "mpa.registromovil",
-        "sha256_cert_fingerprints": ["16:2D:83:86:A0:FA:E9:FB:05:89:34:93:D5:61:8A:F5:2B:48:43:85:E5:44:71:18:61:E6:C7:8F:C5:53:68:6C"]
-      }
-    }]
