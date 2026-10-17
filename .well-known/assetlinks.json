@@ -3,7 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.githubotwhat.twa",
-        "sha256_cert_fingerprints": ["1D:31:65:41:14:9C:7C:D6:DF:17:1F:B0:5F:4C:DA:32:CF:21:CA:86:14:90:17:5B:FC:D5:56:52:93:27:9C:3A"]
+        "sha256_cert_fingerprints": ["F9:D4:42:B4:7D:CA:A6:08:4E:95:A7:D5:88:91:78:23:CC:B9:A9:61:11:E2:32:85:F0:EC:7A:81:88:9B:13:3C"]
       }
     }]
-
